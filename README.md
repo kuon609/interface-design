@@ -40,14 +40,14 @@ RAMS（アクセシビリティ）と組み合わせて使うことで、アク�
 ### Marketplace から
 
 ```bash
-/plugin marketplace add kuon/interface-design
+/plugin marketplace add kuon609/interface-design
 /plugin install interface-design
 ```
 
 ### 直接インストール
 
 ```bash
-/plugin install github:kuon/interface-design
+/plugin install github:kuon609/interface-design
 ```
 
 ## 他のプラグインとの関係
