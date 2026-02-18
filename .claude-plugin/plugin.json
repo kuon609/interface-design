@@ -1,0 +1,11 @@
+{
+  "name": "interface-design",
+  "description": "UI/UX design best practices and anti-pattern detection for web applications. Covers visual design, component states, UX patterns, and common mistakes.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kuon"
+  },
+  "homepage": "https://github.com/kuon/interface-design",
+  "repository": "https://github.com/kuon/interface-design",
+  "license": "MIT"
+}
