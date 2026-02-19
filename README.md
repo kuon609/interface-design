@@ -32,8 +32,9 @@ RAMS（アクセシビリティ）と組み合わせて使うことで、アク�
 |---------|------|
 | `skills/ui-best-practices/references/visual-design.md` | スペーシング・カラー・タイポグラフィ・レイアウト |
 | `skills/ui-best-practices/references/states.md` | ローディング・空・エラー・フィードバックパターン |
-| `skills/ui-best-practices/references/ux-patterns.md` | アフォーダンス・フォーム・ナビゲーション・モーダル |
-| `skills/ui-best-practices/references/antipatterns.md` | ダークパターン・UX ミス・視覚的混乱・コードレベルの問題 |
+| `skills/ui-best-practices/references/interaction.md` | シグニファイア・フィードバック・ナビゲーション・modal・段階的開示 |
+| `skills/ui-best-practices/references/forms.md` | フォーム設計・バリデーション・レイアウト |
+| `skills/ui-best-practices/references/antipatterns.md` | dark pattern・UX ミス・視覚的混乱・コードレベルの問題 |
 
 ## インストール
 
