@@ -3,11 +3,15 @@
 SHIG のオブジェクト指向UI（OOUI）に関する原則をまとめたリファレンス。
 各原則の詳細は公式サイトを参照すること。
 
+> **出典**: 以下の原則名は、ソシオメディア株式会社
+> 「[ヒューマンインターフェース ガイドライン](https://www.sociomedia.co.jp/category/shig)」
+> （© Sociomedia, Inc.）より引用。
+
 ---
 
 ## 対象原則一覧
 
-| # | 原則名 | URL |
+| # | 原則名（出典: SHIG） | URL |
 |---|--------|-----|
 | 23 | オブジェクトベースにする | https://www.sociomedia.co.jp/9240 |
 | 24 | ビューはオブジェクトを表象する | https://www.sociomedia.co.jp/9256 |
